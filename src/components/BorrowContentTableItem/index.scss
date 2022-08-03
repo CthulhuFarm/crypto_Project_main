@@ -1,0 +1,27 @@
+.img-avatar {
+  position: relative;
+  left: 15px;
+}
+.button {
+  background-color: rgb(209, 209, 209);
+  display: inline-block;
+  padding: 6px 18px;
+  height: 40px;
+  color: rgb(90, 90, 90);
+  border-radius: 5px;
+  width: 120px;
+  text-align: center;
+}
+.button.active {
+  background-color: rgb(32, 32, 32);
+  display: inline-block;
+  padding: 6px 18px;
+  height: 40px;
+  border-radius: 5px;
+  color: rgb(230, 230, 230);
+  width: 120px;
+  text-align: center;
+}
+.grey {
+  color: rgb(187, 187, 187);
+}

@@ -1,0 +1,24 @@
+.pull-right {
+  float: right;
+}
+.nav-tabs .nav-link {
+  width: 50%;
+  background-color: #f5f6f7;
+  border: solid 3px #cacaca;
+  border-top: none;
+  color: #a7a7a7;
+  text-align: center;
+  border-radius: 0;
+  font-weight: bold;
+  font-size: 18px;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  width: 50%;
+  border: none;
+  border-top: solid 3px #3a3dd6;
+  color: #3a3dd6;
+  text-align: center;
+  border-radius: 0;
+  font-weight: bold;
+  font-size: 18px;
+}
